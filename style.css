@@ -1,0 +1,23 @@
+/*.row {
+    border:3px solid black;
+}
+.bg-danger{
+    border:2px solid green;
+*/
+h3{
+    text-align: center;
+    text-decoration: underline;
+    color:darkmagenta;
+    
+}
+.child{
+    border: 5px solid violet;
+    height:100px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size:25px;
+    font-weight: bold;
+}
+.col{
+    border:2px solid black;
+}
